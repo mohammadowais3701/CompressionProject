@@ -1,0 +1,14 @@
+D:\5th Semester\DBMS\player\player\bin\Debug\player.exe.config
+D:\5th Semester\DBMS\player\player\bin\Debug\player.exe
+D:\5th Semester\DBMS\player\player\bin\Debug\player.pdb
+D:\5th Semester\DBMS\player\player\obj\Debug\player.csprojResolveAssemblyReference.cache
+D:\5th Semester\DBMS\player\player\obj\Debug\player.player.resources
+D:\5th Semester\DBMS\player\player\obj\Debug\player.Properties.Resources.resources
+D:\5th Semester\DBMS\player\player\obj\Debug\player.csproj.GenerateResource.Cache
+D:\5th Semester\DBMS\player\player\obj\Debug\player.exe
+D:\5th Semester\DBMS\player\player\obj\Debug\player.pdb
+D:\5th Semester\DBMS\player\player\bin\Debug\Interop.WMPLib.dll
+D:\5th Semester\DBMS\player\player\bin\Debug\AxInterop.WMPLib.dll
+D:\5th Semester\DBMS\player\player\obj\Debug\Interop.WMPLib.dll
+D:\5th Semester\DBMS\player\player\obj\Debug\AxInterop.WMPLib.dll
+D:\5th Semester\DBMS\player\player\obj\Debug\player.csproj.ResolveComReference.cache

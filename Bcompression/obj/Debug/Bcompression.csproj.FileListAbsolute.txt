@@ -1,0 +1,15 @@
+G:\C#\Bcompression\Bcompression\bin\Debug\Bcompression.exe.config
+G:\C#\Bcompression\Bcompression\bin\Debug\Bcompression.exe
+G:\C#\Bcompression\Bcompression\bin\Debug\Bcompression.pdb
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.csprojResolveAssemblyReference.cache
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.Properties.Resources.resources
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.csproj.GenerateResource.Cache
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.exe
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.pdb
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.FileCompression.resources
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.FolderCompression.resources
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.Compress.resources
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.Video.resources
+G:\C#\Bcompression\Bcompression\bin\Debug\NReco.VideoConverter.dll
+G:\C#\Bcompression\Bcompression\bin\Debug\NReco.VideoConverter.xml
+G:\C#\Bcompression\Bcompression\obj\Debug\Bcompression.Imagecompress.resources
